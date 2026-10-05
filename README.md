@@ -1,21 +1,28 @@
-# Hurrywell Solutions eCommerce
+# Hurrywell Ayurvedic eCommerce
 
-A responsive eCommerce website for an Ayurvedic health and wellness brand.
+Production eCommerce website case study for Ayurvedic wellness and healthcare products.
 
-## Project Focus
+![Hurrywell website](hurrywell.png)
 
-- Product catalogue and category-based discovery
-- Product detail, cart, wishlist, and comparison journeys
-- Responsive shopping experience across devices
-- Brand-focused layouts for wellness products
-- Clear navigation for multiple care categories
+## Overview
+
+Hurrywell provides a responsive shopping experience covering product discovery, expert recommendations and online purchase journeys.
+
+## Product Experience
+
+- Category and product discovery
+- Responsive eCommerce interface
+- Search, account, wish-list and cart touchpoints
+- Product-detail and promotional content
+- Expert-led trust and conversion sections
+- WhatsApp and customer-support integration
 
 ## My Contribution
 
-Web design and implementation focused on product discovery, responsive UX, conversion-friendly shopping journeys, and consistent visual presentation.
+Selected professional work demonstrating responsive UI implementation, eCommerce UX and business-focused front-end delivery.
 
 ## Live Website
 
-[hurrywell.in](https://hurrywell.in/)
+[Visit Hurrywell](https://hurrywell.in/)
 
-> This repository is a project case study. Client source code and private assets are not published.
+> Portfolio case study. Brand names and website content belong to their respective owners.
